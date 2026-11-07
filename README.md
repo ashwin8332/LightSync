@@ -1,4 +1,4 @@
-# LightSync Safety Console
+# LightSync
 
 A hardware telemetry dashboard for the LightSync vehicle: ESP32 and ESP8266 boards linked over ESP-NOW, publishing through Blynk IoT. It has a React frontend, a FastAPI backend, light and dark themes, and an interactive 3D vehicle view.
 
